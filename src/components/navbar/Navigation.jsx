@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, Container, Nav, Navbar } from "react-bootstrap";
+import { Container, Nav, Navbar } from "react-bootstrap";
 import logoWhite from "../../assets/images/logo-white.png";
 import notify from "../../assets/images/notification.png";
 import user from "../../assets/images/user-nav.png";
